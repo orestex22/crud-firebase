@@ -1,0 +1,49 @@
+{
+  "productos" : {
+    "-M9G7k21iEZCdoAPwSAr" : {
+      "cantidad" : "10",
+      "codigo" : "COD01",
+      "descripcion" : "Tablet Samsung"
+    },
+    "-M9G7nfEBGjpBA8ToVtb" : {
+      "cantidad" : "25",
+      "codigo" : "COD02",
+      "descripcion" : "Mouse Genius"
+    },
+    "-M9G8IRDFrtudKmkx8zp" : {
+      "cantidad" : "9",
+      "codigo" : "COD03",
+      "descripcion" : "Smartwach Amazfit Pace"
+    },
+    "-M9G8fz6glD9KkGalQmD" : {
+      "cantidad" : "23",
+      "codigo" : "COD04",
+      "descripcion" : "Samsung S10"
+    },
+    "-M9GAulpopokelU2LNnX" : {
+      "cantidad" : "50",
+      "codigo" : "COD05",
+      "descripcion" : "Iphone 11"
+    },
+    "-M9GR56TcI20H9Uh8hog" : {
+      "cantidad" : "21",
+      "codigo" : "COD06",
+      "descripcion" : "Amazfit Verge"
+    },
+    "-M9GSn1kH815DSy84Ohg" : {
+      "cantidad" : "22",
+      "codigo" : "COD07",
+      "descripcion" : "Samsung watch active 2"
+    },
+    "-M9GSrm5PaGr3WNvXD7n" : {
+      "cantidad" : "10",
+      "codigo" : "COD08",
+      "descripcion" : "Monitor Samsung"
+    },
+    "-M9GSv9bGKGRtUgB0Y_H" : {
+      "cantidad" : "33",
+      "codigo" : "COD09",
+      "descripcion" : "Parlantes BT JBL"
+    }
+  }
+}
